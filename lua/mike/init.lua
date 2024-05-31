@@ -1,4 +1,4 @@
 require("mike.remap")
 require("mike.colors")
+require("mike.set")
 Color()
-print("Hello from Mike")
